@@ -1,7 +1,6 @@
-### 你好
+<h1>你好</h1>
 
-<!--
-**XiaoMiaoICa/XiaoMiaoICa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**XiaoMiaoICa/XiaoMiaoICa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
