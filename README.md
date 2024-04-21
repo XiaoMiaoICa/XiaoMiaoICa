@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="image/1.png" alt="Placeholder Image" width="400">
+    <img src="png1.png" alt="Placeholder Image" width="400">
 
 </div>
 
