@@ -4,9 +4,9 @@
     
     
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-    <p align="center">
+    <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Hello!+Welcome+to+my+homepage!;Im+MiaoluoYuanlina!" />
-    </p>
+    </div>
     
     <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
