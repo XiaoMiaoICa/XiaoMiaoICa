@@ -34,10 +34,10 @@
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/XiaoMiaoICa"><img src="https://img.shields.io/badge/GitHub-XiaoMiaoICa-blue?logo=github" /></a>
-<a href="[https://space.bilibili.com/498105668](https://space.bilibili.com/1775750067)"><img src="https://img.shields.io/badge/哔哩哔哩-苗萝缘莉雫-pink?logo=bilibili" /></a>
-<a href="[[ https://img.shields.io/badge/QQ-XiaoMiaoIa-green?logo=tencentqq]](https://space.bilibili.com/1775750067)"><img src="https://img.shields.io/badge/QQ-XiaoMiaoIa-green?logo=tencentqq" /></a>
-<a href="[[https://twitter.com/XiaoMiao_ICa](https://qm.qq.com/q/QrRIlBmXKK]]"><img src="https://img.shields.io/badge/QQ-XiaoMiaoICa-green?logo=x" /></a>
-<a href="[[[https://twitter.com/XiaoMiao_ICa](https://qm.qq.com/q/QrRIlBmXKK]]"><img src="https://img.shields.io/badge/QQ-XiaoMiaoICa-green?logo=youtube" /></a>
+<a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-苗萝缘莉雫-pink?logo=bilibili" /></a>
+<a href=" https://img.shields.io/badge/QQ-XiaoMiaoIa-green"><img src="https://img.shields.io/badge/QQ-XiaoMiaoIa-green?logo=tencentqq" /></a>
+<a href="https://twitter.com/XiaoMiao_ICa"><img src="https://img.shields.io/badge/QQ-XiaoMiaoICa-green?logo=x" /></a>
+<a href="https://twitter.com/XiaoMiao_ICa"><img src="https://img.shields.io/badge/QQ-XiaoMiaoICa-green?logo=youtube" /></a>
 
 
 </p>
