@@ -66,29 +66,29 @@
 <!-- https://github.com/badges/shields -->
 <p align="center">
     <a href="https://github.com/XiaoMiaoICa"><img
-            src="https://img.shields.io/badge/GitHub-XiaoMiaoICa-blue?logo=github" /></a>
+            src="https://img.shields.io/badge/GitHub-XiaoMiaoICa-FFFFFF?logo=github" /></a>
     <a href="https://space.bilibili.com/1775750067"><img
-            src="https://img.shields.io/badge/bilibili-苗萝缘莉雫-pink?logo=bilibili" /></a>
+            src="https://img.shields.io/badge/bilibili-苗萝缘莉雫-0e74d8?logo=bilibili" /></a>
     <a href="https://qm.qq.com/q/QrRIlBmXKK"><img
-            src="https://img.shields.io/badge/X-XiaoMiaoIa-white?logo=tencentqq" /></a>
+            src="https://img.shields.io/badge/QQ-XiaoMiaoIa-f9ae08?logo=tencentqq" /></a>
     <a href="https://twitter.com/XiaoMiao_ICa"><img
-            src="https://img.shields.io/badge/X-XiaoMiao_ICa-black?logo=x" /></a>
+            src="https://img.shields.io/badge/X-XiaoMiao_ICa-000000?logo=x" /></a>
     <a href="https://www.youtube.com/@XiaoMiao_ICa"><img
-            src="https://img.shields.io/badge/YouTube-XiaoMiao_ICa-red?logo=youtube" /></a>
+            src="https://img.shields.io/badge/YouTube-XiaoMiao_ICa-FF0101?logo=youtube" /></a>
     <a href="https://steamcommunity.com/id/XiaoMiao_ICa_TUR"><img
-            src="https://img.shields.io/badge/Steam-XiaoMiao_ICa-black?logo=steam" /></a>
+            src="https://img.shields.io/badge/Steam-XiaoMiao_ICa-0b1f4f?logo=steam" /></a>
     <a href="https://t.me/XiaoMiao_ICa"><img
-            src="https://img.shields.io/badge/Telegram-XiaoMiao_ICa-blue?logo=Telegram" /></a>
+            src="https://img.shields.io/badge/Telegram-XiaoMiao_ICa-27a6e6?logo=Telegram" /></a>
     <a href="https://www.tiktok.com/@xiaomiao_ica"><img
-            src="https://img.shields.io/badge/tiktok-XiaoMiaoIa-pink?logo=tiktok" /></a>
+            src="https://img.shields.io/badge/tiktok-XiaoMiao_ICa-fffbff?logo=tiktok" /></a>
     <a href="https://www.twitch.tv/xiaomiao_ica"><img
-            src="https://img.shields.io/badge/twitch-XiaoMiao_ICa-purple?logo=twitch" /></a>
+            src="https://img.shields.io/badge/twitch-XiaoMiao_ICa-9147ff?logo=twitch" /></a>
     <a href="https://www.facebook.com/profile.php?id=100090032558271"><img
-            src="https://img.shields.io/badge/Facebook-XiaoMiao_ICa-blue?logo=facebook" /></a>
+            src="https://img.shields.io/badge/Facebook-XiaoMiao_ICa-0866ff?logo=facebook" /></a>
     <a href="https://www.instagram.com/xiaomiaoica"><img
-            src="https://img.shields.io/badge/instagram-xiaomiaoica-yellow?logo=instagram" /></a>
+            src="https://img.shields.io/badge/instagram-xiaomiaoica-ffbfb5?logo=instagram" /></a>
     <a href="https://www.xiaomiao-ica.wiki/"><img
-            src="https://img.shields.io/badge/苗萝缘莉雫-博客-purple?logo=" /></a>
+            src="https://img.shields.io/badge/苗萝缘莉雫-博客-9400D3?logo=" /></a>
 </p>
 
 
