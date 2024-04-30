@@ -77,8 +77,6 @@
             src="https://img.shields.io/badge/YouTube-XiaoMiao_ICa-red?logo=youtube" /></a>
     <a href="https://www.xiaomiao-ica.wiki/"><img
             src="https://img.shields.io/badge/苗萝缘莉雫-博客-purple?logo=" /></a>
-</p>
-<p align="center">
     <a href="https://steamcommunity.com/id/XiaoMiao_ICa_TUR"><img
             src="https://img.shields.io/badge/Steam-XiaoMiao_ICa-black?logo=steam" /></a>
     <a href="https://t.me/XiaoMiao_ICa"><img
@@ -92,6 +90,7 @@
     <a href="https://www.instagram.com/xiaomiaoica"><img
             src="https://img.shields.io/badge/instagram-xiaomiaoica-yellow?logo=instagram" /></a>
 </p>
+
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
