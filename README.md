@@ -29,8 +29,30 @@
 <br/>
 <br/>  
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=py,cs,html,css,js,lua," />
-  
+<!-- <img align="center" src="https://skillicons.dev/icons?i=py,cs,html,css,js,lua," />-->
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=A213F7&center=%E7%9C%9F&vCenter=%E5%81%87&repeat=%E7%9C%9F&random=%E5%81%87&width=600&height=70&lines=I+will+use+the+following+language" alt="Typing SVG" /></a>
+</p>
+<div style="display: flex; justify-content: center;">
+    <a href="https://github.com/XiaoMiaoICa" style="margin: 0 10px;">
+        <img src="https://github.com/XiaoMiaoICa/XiaoMiaoICa/blob/1b8c69dfd689d334e6af699ce4f2de309e222dc6/image/C%23.png" style="width: 24%;" />
+    </a>
+    <a href="https://github.com/XiaoMiaoICa" style="margin: 0 10px;">
+        <img src="https://github.com/XiaoMiaoICa/XiaoMiaoICa/blob/1b8c69dfd689d334e6af699ce4f2de309e222dc6/image/HTML.png" style="width: 24%;" />
+    </a>
+    <a href="https://github.com/XiaoMiaoICa" style="margin: 0 10px;">
+        <img src="https://github.com/XiaoMiaoICa/XiaoMiaoICa/blob/1b8c69dfd689d334e6af699ce4f2de309e222dc6/image/PaperMCLogo.png" style="width: 24%;" />
+    </a>
+    <a href="https://github.com/XiaoMiaoICa" style="margin: 0 10px;">
+        <img src="https://github.com/XiaoMiaoICa/XiaoMiaoICa/blob/1b8c69dfd689d334e6af699ce4f2de309e222dc6/image/Python.png" style="width: 24%;" />
+    </a>
+</div>
+
+
+
+
+
+
 </p>
 <!-- https://github.com/badges/shields -->
 <p align="center">
