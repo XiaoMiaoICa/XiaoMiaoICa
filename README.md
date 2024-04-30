@@ -70,13 +70,27 @@
     <a href="https://space.bilibili.com/1775750067"><img
             src="https://img.shields.io/badge/bilibili-苗萝缘莉雫-pink?logo=bilibili" /></a>
     <a href="https://qm.qq.com/q/QrRIlBmXKK"><img
-            src="https://img.shields.io/badge/X-XiaoMiaoIa-green?logo=tencentqq" /></a>
+            src="https://img.shields.io/badge/X-XiaoMiaoIa-white?logo=tencentqq" /></a>
     <a href="https://twitter.com/XiaoMiao_ICa"><img
-            src="https://img.shields.io/badge/X-XiaoMiao_ICa-green?logo=x" /></a>
+            src="https://img.shields.io/badge/X-XiaoMiao_ICa-black?logo=x" /></a>
     <a href="https://www.youtube.com/@XiaoMiao_ICa"><img
-            src="https://img.shields.io/badge/YouTube-XiaoMiao_ICa-green?logo=youtube" /></a>
+            src="https://img.shields.io/badge/YouTube-XiaoMiao_ICa-red?logo=youtube" /></a>
     <a href="https://www.xiaomiao-ica.wiki/"><img
-            src="https://img.shields.io/badge/苗萝缘莉雫-博客-green?logo=" /></a>
+            src="https://img.shields.io/badge/苗萝缘莉雫-博客-purple?logo=" /></a>
+</p>
+<p align="center">
+    <a href="https://steamcommunity.com/id/XiaoMiao_ICa_TUR"><img
+            src="https://img.shields.io/badge/Steam-XiaoMiao_ICa-black?logo=steam" /></a>
+    <a href="https://t.me/XiaoMiao_ICa"><img
+            src="https://img.shields.io/badge/Telegram-XiaoMiao_ICa-blue?logo=Telegram" /></a>
+    <a href="https://www.tiktok.com/@xiaomiao_ica"><img
+            src="https://img.shields.io/badge/tiktok-XiaoMiaoIa-pink?logo=tiktok" /></a>
+    <a href="https://www.twitch.tv/xiaomiao_ica"><img
+            src="https://img.shields.io/badge/twitch-XiaoMiao_ICa-purple?logo=twitch" /></a>
+    <a href="https://www.facebook.com/profile.php?id=100090032558271"><img
+            src="https://img.shields.io/badge/Facebook-XiaoMiao_ICa-blue?logo=facebook" /></a>
+    <a href="https://www.instagram.com/xiaomiaoica"><img
+            src="https://img.shields.io/badge/instagram-xiaomiaoica-yellow?logo=instagram" /></a>
 </p>
 
 <!-- https://github.com/kyechan99/capsule-render -->
