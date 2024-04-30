@@ -36,16 +36,16 @@
 
 <div style="display: flex; justify-content: center;">
     <a href="https://dotnet.microsoft.com/" style="margin: 0 10px;">
-        <img src="https://github.com/XiaoMiaoICa/XiaoMiaoICa/blob/1b8c69dfd689d334e6af699ce4f2de309e222dc6/image/C%23.png" style="width: 24%;" />
+        <img src="image/C%23.png" style="width: 24%;" />
     </a>
     <a href="https://www.runoob.com/html" style="margin: 0 10px;">
-        <img src="https://github.com/XiaoMiaoICa/XiaoMiaoICa/blob/1b8c69dfd689d334e6af699ce4f2de309e222dc6/image/HTML.png" style="width: 24%;" />
-    </a>
-    <a href="https://papermc.io" style="margin: 0 10px;">
-        <img src="https://github.com/XiaoMiaoICa/XiaoMiaoICa/blob/1b8c69dfd689d334e6af699ce4f2de309e222dc6/image/PaperMCLogo.png" style="width: 24%;" />
+        <img src="image/HTML.png" style="width: 24%;" />
     </a>
     <a href="https://www.python.org" style="margin: 0 10px;">
-        <img src="https://github.com/XiaoMiaoICa/XiaoMiaoICa/blob/1b8c69dfd689d334e6af699ce4f2de309e222dc6/image/Python.png" style="width: 24%;" />
+        <img src="image/Python.png" style="width: 24%;" />
+    </a>
+    <a href="https://papermc.io" style="margin: 0 10px;">
+        <img src="image/PaperMCLogo.png" style="width: 24%;" />
     </a>
 </div>
 
@@ -54,7 +54,7 @@
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoMiaoICa" />
     <a href="https://www.pixiv.net/artworks/91686293">
-        <img align="center" src="https://github.com/XiaoMiaoICa/XiaoMiaoICa/blob/be223b4051c93b4012cca0870b877d782f9b6a5a/image/png1.png" style="width: 40%;"/>
+        <img align="center" src="image/png1.png" style="width: 40%;"/>
     </a>
 
 </p>
